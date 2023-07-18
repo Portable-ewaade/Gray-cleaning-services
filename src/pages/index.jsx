@@ -127,7 +127,7 @@ const Home = () => {
                       </div>
                       </div>
                     </div>
-                    {/* showon mbile */}
+                    {/* showon mobile */}
                     <div className='col-md-6 ui-show-only ui-hide-big'>
                       <div className="pt-2 mt-2">
                           <h1 className='fs-xxlarge line-height text-color mb-4'>Professional cleaning <br /> service</h1>

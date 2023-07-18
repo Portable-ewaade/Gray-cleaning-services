@@ -18,7 +18,7 @@ const Pricing = () => {
                       </div>
                 </div>
                 <div className="col-md-6">
-                <div className="card border-0">
+                     <div className="card border-0">
                          <img src="../../../../assets/cleaning1.jpeg" alt="..." className=''/>
                     </div>
                 </div>
