@@ -6,9 +6,13 @@ const Enquires = () => {
         <div className="text-center mt-5 position-relative enquiries">
             <img src="../../../assets/cln7.jpg" alt="..."className='mt-5 enq-img'  />
 
-                    <div class="card text-bg-light ml-5 p-5 enquiry border-0 position-absolute top-50 start-50">
+                    <div class="card text-bg-light ml-5 p-3 enquiry border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
-                            <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>Make An Enquiry</h1>
+                            <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>Make An Enquiry
+                            <a href="/">
+                                <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
+                            </a>
+                            </h1>
                         </div>
                     </div>
         </div>

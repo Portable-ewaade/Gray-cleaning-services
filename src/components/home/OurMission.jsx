@@ -69,7 +69,7 @@ const OurMission = () => {
                         <hr className='d-md-none mt-4'/>
                         <div className='col-md-6 mt-4'>
                             <div>
-                                <p className='fs-normal text-color fw-medium'>Learn more about gray cleaning services</p>  
+                                <p className='fs-normal text-color fw-medium'>Learn more about Steelgrey Cleaning</p>  
                             </div>    
                         </div>
                         <hr className='mt-3'/>

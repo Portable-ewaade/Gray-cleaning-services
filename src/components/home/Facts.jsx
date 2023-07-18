@@ -1,97 +1,9 @@
 import React from 'react'
 
-const Credibility = () => {
+const Facts = () => {
   return (
-    <div className='container p-5 mt-3'>
-        <div className="row ">
-                <div className="col-md-4 mb-3 ">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg ">
-                            <p>Reliable</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0 ">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>On Time</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>No hassle</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>Flexible</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>High standards</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>Uniformed</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>Clean Report Cards</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>Fully insured</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>DBS checked</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>SafeConractor accredited by Alcumus</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-4 shadow-lg">
-                            <p>All equipment included</p>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4 mb-3">
-                    <div className="card border-0">
-                        <div className="card-body p-3 shadow-lg">
-                            <p>No obligation free consultation at your home or premises</p>
-                        </div>
-                    </div>
-                </div>
-           </div>
-
-        
-        <div className="container mt-5 ">
+    <div className='pb-5'>
+        <div className="container mt-5">
             <div>
                 <h1 className='text-color mb-5'>Cleaning Facts</h1>
             </div>
@@ -199,4 +111,4 @@ const Credibility = () => {
   )
 }
 
-export default Credibility
+export default Facts

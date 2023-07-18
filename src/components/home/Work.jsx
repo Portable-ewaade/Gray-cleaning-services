@@ -5,9 +5,13 @@ const Work = () => {
     <div>
         <div className="text-center mt-5 position-relative how-it-works">
             <img src="../../../assets/cleaning4.jpg" alt="..."className='mt-5' />
-                    <div class="card text-bg-light ml-5 p-5  how-it-works2 border-0 position-absolute top-50 start-50">
+                    <div class="card text-bg-light ml-5 p-4  how-it-works2 border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
-                            <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>All Services</h1>
+                            <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>All Services
+                            <a href="/">
+                                <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
+                            </a>
+                            </h1>
                         </div>
                     </div>
         </div>
@@ -21,8 +25,8 @@ const Work = () => {
                 <div className="col-md-4 border-0">
                     <div className="card border-0 ">
                         <div className="card-body shadow-lg p-4 mb-3">
-                            <h1 className='text-color mt-2 mb-4'>1.</h1>
-                            <h2 className='text-color my-5'>Contact Us</h2>
+                            <h1 className='text-color mt-2 mb-md-4'>1.</h1>
+                            <h2 className='text-color my-md-5 my-sm-2'>Contact Us</h2>
                             <p className='mb-4'>Get in touch with our friendly Birmingham-based cleaning company about your requirements today. Whether you’re a homeowner, tenant, landlord or corporate client, we are ready to help.</p>
                         </div>
                     </div>
@@ -30,8 +34,8 @@ const Work = () => {
                 <div className="col-md-4">
                     <div className="card border-0 ">
                         <div className="card-body shadow-lg p-4 mb-3">
-                            <h1 className='text-color mt-2 mb-5'>2.</h1>
-                            <h2 className='text-color mb-5'>Arrange A Consultation</h2>
+                            <h1 className='text-color mt-2 mb-md-5 my-sm-2'>2.</h1>
+                            <h2 className='text-color mb-md-5 mb-sm-4'>Arrange A Consultation</h2>
                             <p>For all our cleaning services, we undertake a bespoke no obligation consultation to ensure our work is tailored to your needs down to the very last detail.</p>
                         </div>
                     </div>
@@ -39,14 +43,18 @@ const Work = () => {
                 <div className="col-md-4">
                     <div className="card border-0">
                         <div className="card-body shadow-lg p-4">
-                            <h1 className='text-color mt-2 mb-5'>3.</h1>
+                            <h1 className='text-color mt-2 mb-md-5 my-sm-2'>3.</h1>
                             <h2 className='text-color mb-3'>Get ready to cleanse</h2>
                             <p>Our experienced and dependable Birmingham cleaners will arrive on-time and complete your clean to the highest possible standard, leaving your property cleansed. Whether you choose a one-off clean or a regular service package, we are confident you will love our results.</p>
                         </div>
                     </div>
                 </div>
                 <div className="text-color d-flex justify-content-end my-4">
-                    <h4 className='fw-normal'>Make an enquiry</h4>
+                    <h4 className='fw-normal'>Make an enquiry
+                      <a href="/">
+                        <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
+                        </a>
+                      </h4>
                 </div>
            </div>
         </div>

@@ -117,7 +117,6 @@ h1,h2,h3,h4,h5,h6 {
 
 .fs-small{
   font-size: 14px !important;
-  
 }
 
 .fs-normal{
@@ -142,9 +141,7 @@ h1,h2,h3,h4,h5,h6 {
 .fs-xxxlarge{
   font-size: 50px !important;
 }
-.mx{
-  margin-bottom: rem !important;
-}
+
 .mx{
   margin-bottom: 4rem !important;
 }
@@ -171,6 +168,19 @@ h1,h2,h3,h4,h5,h6 {
   display: none;
 }
 
+.arrrow-i{
+  width: 2.5rem !important;
+}
+.icons{
+  width: 4rem !important;
+}
+
+.services-icons{
+  width: 6rem !important;
+  margin-top: -3.9rem !important;
+}
+
+
 /* media query */
 @media screen and (max-width: 600px){
   .ui-show-only{
@@ -182,15 +192,23 @@ h1,h2,h3,h4,h5,h6 {
   .service-input{
     display: block !important;
   }
+  .fs-xxxlarge {
+    font-size: 30px !important;
+}
+
+.fs-xlarge {
+  font-size: 24px !important;
+}
 
   /* enquiries */
-  .enquiry{
-    left: 15% !important;
-    padding: 1.5rem!important;
-    top: 33% !important;
+  .enquiry {
+    left: 14% !important;
+    padding: 0.5rem!important;
+    top: 24% !important;
     background-color: #fff !important;
     border-radius: 0 !important;
-  }
+    width: 72%;
+}
 
   .enquiry .card-body h1{
     font-size: 24px !important;
@@ -202,6 +220,14 @@ h1,h2,h3,h4,h5,h6 {
     margin-top: 1rem !important;
   }
 
+  .enquiry .card-body img {
+    left: 0% !important;
+    padding: 0rem!important;
+    width: 26% !important;
+    /* top: 28% !important; */
+    border-radius: 0 !important;
+  }
+
   .what-else .card-body h1{
     font-size: 34px !important;
     padding: 1rem!important;
@@ -209,10 +235,21 @@ h1,h2,h3,h4,h5,h6 {
 
 /* how it works */
 .how-it-works2 {
-  left: 22% !important;
-  padding: 2rem!important;
-  top: 28% !important;
+  left: 18% !important;
+  padding: 1rem!important;
+  top: 29% !important;
   background-color: #fff !important;
+  border-radius: 0 !important;
+  width: 64%;
+}
+
+.how-it-works2 .card-body img {
+  left: 0% !important;
+  padding: 0rem!important;
+  position: relative;
+  width: 18% !important;
+  /* top: 28% !important; */
+  top: -8px;
   border-radius: 0 !important;
 }
 .how-it-works img{

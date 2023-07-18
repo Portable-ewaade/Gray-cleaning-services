@@ -10,7 +10,11 @@ const Pricing = () => {
                           <h1 className='fs-xxlarge line-height text-color mb-4'>Pricing Plans</h1>
                           <p className='pt-3 fs-normal text-black fs-large '>As we understand our customers have different requirements for their cleaning services we will discuss your individual cleaning needs with you and work out a pricing plan to suit you.</p>
 
-                          <h4 className='text-color mt-5'>Make an enquiry</h4>
+                          <h4 className='text-color mt-md-5 mb-5'>Make an enquiry
+                            <a href="/">
+                                <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
+                            </a>
+                            </h4>
                       </div>
                 </div>
                 <div className="col-md-6">
@@ -37,14 +41,18 @@ const Pricing = () => {
 
                           <p className='text-black fs-large'>We take great pride in our work. We aim to provide a high standard of general cleaning services and specialist cleaning services, such as carpet cleaning, at affordable prices and tailored specifically to your sector and your requirements.</p>
 
-                          <h4 className='text-color mt-1'>Make an enquiry</h4>
+                          <h4 className='text-color mt-1'>Make an enquiry
+                            <a href="/">
+                                <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
+                            </a>
+                            </h4>
                       </div>
                 </div>
                
             </div>
         </div>
 
-        <div className="container p-5 mt-3">
+        <div className="container p-5 mt-1">
             <div className="row">
                 <div className="col-md-6">
                     <div className=" mt-3 ">
