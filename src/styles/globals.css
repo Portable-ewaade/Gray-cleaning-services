@@ -141,6 +141,9 @@ h1,h2,h3,h4,h5,h6 {
 .fs-xxxlarge{
   font-size: 50px !important;
 }
+.fs-larger{
+  font-size: 40px !important;
+}
 
 .mx{
   margin-bottom: 4rem !important;
@@ -152,7 +155,7 @@ h1,h2,h3,h4,h5,h6 {
   color: #f2af2b !important; 
 }
 .bg-color{
-  background-color: #F89D1B !important; 
+  background-color: #f2af2b !important; 
 }
 
 .enquiries img{
@@ -168,8 +171,16 @@ h1,h2,h3,h4,h5,h6 {
   display: none;
 }
 
+.carousel-item img {
+  width: 35rem !important;
+  height: 27rem !important;
+}
 .arrrow-i{
   width: 2.5rem !important;
+}
+.arrrow-ii{
+  width: 2rem !important;
+  height: 2rem !important;
 }
 .icons{
   width: 4rem !important;
@@ -194,6 +205,10 @@ h1,h2,h3,h4,h5,h6 {
   }
   .fs-xxxlarge {
     font-size: 30px !important;
+}
+.carousel-item img {
+  width: 23rem !important;
+  height: 23rem !important;
 }
 
 .fs-xlarge {
@@ -259,5 +274,23 @@ h1,h2,h3,h4,h5,h6 {
 }
 .how-it-works .card-body h1{
   font-size: 24px !important;
+}
+
+/* specialist */
+
+.specialist img{
+width: 100% !important;
+}
+
+.specialist .card {
+  left: 13% !important;
+  padding: 0rem!important;
+  position: relative;
+  top: 33% !important;
+  border-radius: 0 !important;
+}
+
+.special-p{
+  font-size: 15px !important;
 }
 }

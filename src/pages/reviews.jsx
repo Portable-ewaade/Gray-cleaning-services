@@ -6,21 +6,21 @@ const reviews = () => {
   return (
     <div>
         <Navbar />
-        <div className='container text-black mt-5'>
+        <div className='container text-black mt-md-4'>
          <div className="row">
-            <div className='col-md-10 mx-auto'>
+            <div className='col-md-10 ms-md-5'>
                 <div className='row'>
                   <div className='col-md-6'>
                       <div className="pt-5 mt-4">
-                          <h1 className='fs-xxxlarge line-height text-color mb-4 mt-5'>Our Reviews</h1>
+                          <h1 className='fs-xxxlarge line-height text-color mb-4 mt-md-5 pt-md-5'>Our Reviews</h1>
                           <p className='pt-3 fs-normal'>We’re proud of the high standards we achieve, but don’t just take our word for it. Read our recent reviews to help you make the right decision when choosing your next cleaning company.</p>
                       </div>
                   </div>
 
                   <div className='col-md-6'>
-                    <div className="pt-5 mt-4">
+                    <div className="pt-5 mt-md-4">
                       <div class="carousel-item active">
-                           <img src="../../../assets/cln5.jpg" class="d-block w-100 h-100" alt="..."/>
+                           <img src="../../../assets/clean3.png" class="d-block " alt="..."/>
                         </div>
                     </div>
                   </div>
@@ -30,10 +30,10 @@ const reviews = () => {
          </div>
         </div>
 
-        <section className='happy-customer-section p-5 mt-3 pb-5'>
+        <section className='happy-customer-section p-md-5 mt-3 pb-5'>
       <div className='container text-black'>
         <div className='row'>
-          <div className='col-md-10 mx-auto'>
+          <div className='col-md-10 mx-md-auto'>
           <h1 className='mt-5 pt-4 mb-4 text-center fs-xxxlarge text-color'>Happy Customers, Happy Homes & Happy Businesses</h1>
             <div className="row">
               <div className='col-md-12 mx-auto'>
@@ -49,7 +49,7 @@ const reviews = () => {
           </div>
         </div>
       </div>
-    </section>
+        </section>
        
         <Footer />
     </div>

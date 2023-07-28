@@ -68,8 +68,11 @@ const OurMission = () => {
                         </div>
                         <hr className='d-md-none mt-4'/>
                         <div className='col-md-6 mt-4'>
-                            <div>
-                                <p className='fs-normal text-color fw-medium'>Learn more about Steelgrey Cleaning</p>  
+                            <div className='d-flex'>
+                                <p className='fs-normal text-color fw-medium mt-'>Learn more about Steelgrey Cleaning</p>  
+                               <a href="/services">
+                               <img src="../../../assets/icons/arrow-right.png  " alt="..." className='mx-2 arrrow-ii' />
+                               </a>
                             </div>    
                         </div>
                         <hr className='mt-3'/>

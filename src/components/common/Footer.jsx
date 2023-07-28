@@ -51,7 +51,7 @@ const Footer = () => {
                 </div>
                 <hr className='d-md-none mt-4'/>
                 <div className="col-md-3">
-                    <a href="#">
+                    <a href="/getStarted">
                         <ul className='px-1'>Contact Us</ul>
                     </a>
                     <a href="#">

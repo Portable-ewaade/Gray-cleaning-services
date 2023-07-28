@@ -3,12 +3,12 @@ import React from 'react'
 const Work = () => {
   return (
     <div>
-        <div className="text-center mt-5 position-relative how-it-works">
-            <img src="../../../assets/cleaning4.jpg" alt="..."className='mt-5' />
+        <div className="text-center mt-md-3 position-relative how-it-works">
+            <img src="../../../assets/services.png" alt="..."className='mt-5' />
                     <div class="card text-bg-light ml-5 p-4  how-it-works2 border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
                             <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>All Services
-                            <a href="/">
+                            <a href="/services">
                                 <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                             </a>
                             </h1>
@@ -51,7 +51,7 @@ const Work = () => {
                 </div>
                 <div className="text-color d-flex justify-content-end my-4">
                     <h4 className='fw-normal'>Make an enquiry
-                      <a href="/">
+                      <a href="/getStarted">
                         <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                         </a>
                       </h4>

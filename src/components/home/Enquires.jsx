@@ -2,14 +2,15 @@ import React from 'react'
 
 const Enquires = () => {
   return (
-    <div className='mt-5'>
+    <div className="mt-md-5">
+        <div className='mt-5'>
         <div className="text-center mt-5 position-relative enquiries">
-            <img src="../../../assets/cln7.jpg" alt="..."className='mt-5 enq-img'  />
+            <img src="../../../assets/inquiry.png" alt="..."className='mt-5 enq-img'  />
 
                     <div class="card text-bg-light ml-5 p-3 enquiry border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
                             <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>Make An Enquiry
-                            <a href="/">
+                            <a href="/getStarted">
                                 <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                             </a>
                             </h1>
@@ -20,7 +21,7 @@ const Enquires = () => {
             <section className='mission-section mt-2'>
         <div className='container text-black'>
             <div className='row'>
-                <div className='col-md-10 mx-auto'>
+                <div className='col-md-10 mx-auto mt-md-4'>
                     <div className="row">
                     <div className='col-md-6 mt-5 p-2'>
                     <div class="card text-bg-light mb-3 border-0 what-else ">
@@ -71,6 +72,7 @@ const Enquires = () => {
             </div>
          </div>
      </section>
+    </div>
     </div>
   )
 }

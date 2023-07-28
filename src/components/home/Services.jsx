@@ -16,8 +16,8 @@ const Services = () => {
                     <hr className='mt-5 mb-4'/>
                     <p class="card-text fs-md-large fs-sm-small  fs-md-large fs-sm-small mt-0">Whether you are a tenant leaving a property or a landlord or letting agent preparing for new occupants, our end of tenancy cleans and start of tenancy cleans ensure your property is ready for the next chapter. For tenants and landlords, our end of tenancy and start of tenancy cleaning will reduce deposit disputes and unnecessary stress. Read more about how our end of tenancy cleaning services can help you today.</p>
                     
-                    <a href="#" class="card-link fs-large text-color">Find out more</a>
-                    <a href="/getStarted">
+                    <a href="/end-of-tenancy" class="card-link fs-large text-color">Find out more</a>
+                    <a href="/end-of-tenancy">
                          <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                     </a>
                 </div>
@@ -35,8 +35,8 @@ const Services = () => {
                     <hr className='mt-5 mb-4'/>
                     <p class="card-text fs-md-large fs-sm-small  fs-md-large fs-sm-small mt-3 mx">Schools are focal points in any community, and it is important that they are kept clean and hygienic to allow pupils and staff to work in confidence. Our specialist cleaners work in schools across Birmingham to provide the level of cleanliness required to facilitate a return to education in the wake of the Covid-19 pandemic.</p>
                     
-                    <a href="#" class="card-link fs-large text-color mt-5">Find out more</a>
-                    <a href="/">
+                    <a href="/school-cleaning" class="card-link fs-large text-color mt-5">Find out more</a>
+                    <a href="/school-cleaning">
                          <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                     </a>
                 </div>
@@ -54,8 +54,8 @@ const Services = () => {
                     <hr className='mt-5 mb-4'/>
                     <p class="card-text fs-md-large fs-sm-small  fs-large mt-3">From spring cleans to weekly cleaning services, we are experts in keeping your house or apartment spotless. Whatever your requirements, we tailor our cleaning services to your specific needs. Our friendly cleaners are fully vetted and work to the highest standards. Read more about our apartment and house cleaning services today.</p>
                     
-                    <a href="#" class="card-link fs-large text-color my-5">Find out more</a>
-                    <a href="/">
+                    <a href="/domestic-cleaning" class="card-link fs-large text-color my-5">Find out more</a>
+                    <a href="/domestic-cleaning">
                          <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                     </a>
                 </div>

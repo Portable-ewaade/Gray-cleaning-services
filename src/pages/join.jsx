@@ -6,13 +6,13 @@ const join = () => {
   return (
     <div>
         <Navbar />
-        <div className='container text-black mt-md-5 mb-4'>
+        <div className='container text-black mt-md-4 mb-4'>
          <div className="row">
-            <div className='col-md-10 mx-auto'>
+            <div className='col-md-11 mx-auto'>
                 <div className='row'>
                   <div className='col-md-6'>
                       <div className="pt-md-5 mt-4">
-                          <h1 className='fs-xxxlarge line-height text-color mb-4 mt-5'>Join Our Team</h1>
+                          <h1 className='fs-xxxlarge line-height text-color mb-4 mt-5 pt-md-5'>Join Our Team</h1>
                           <p className='pt-3 fs-normal'>Looking for cleaning jobs in Birmingham? Join the Cleanse team for competitive rates and an excellent working environment.</p>
                       </div>
                   </div>
@@ -20,7 +20,7 @@ const join = () => {
                   <div className='col-md-6'>
                     <div className="pt-5 mt-4">
                       <div class="carousel-item active">
-                           <img src="../../../assets/cln5.jpg" class="d-block w-100 h-100" alt="..."/>
+                           <img src="../../../assets/clean2.jpg" class="d-block w-100 h-100" alt="..."/>
                         </div>
                     </div>
                   </div>                 
@@ -33,7 +33,7 @@ const join = () => {
             <div className="row mb-5">
                 <div className="col-md-6">
                      <div className="card border-0">
-                         <img src="../../../../assets/cleaning1.jpeg" alt="..." className=''/>
+                         <img src="../../../../assets/clean7.jpg" alt="..." className=''/>
                     </div>
                 </div>
                 <div className="col-md-6 mb-4 ">
@@ -53,7 +53,7 @@ const join = () => {
                 </div>
                 <div className="col-md-6">
                      <div className="card border-0">
-                         <img src="../../../../assets/cleaning2.jpeg" alt="..." className=''/>
+                         <img src="../../../../assets/clean3.png" alt="..." className=''/>
                     </div>
                 </div>
 
