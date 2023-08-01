@@ -65,11 +65,10 @@ const Home = () => {
  
 
     <div className='container text-black p-md-'>
-         <div className="row">
-            <div className='col-md- mx-auto'>
-                <div className='row'>
+        
+                <div className='row ps-0'>
                   {/* show on mobile */}
-                <div className='col-md-6 ui-show-only ui-hide-big'>
+                <div className='col-md-6 ui-show-only ui-hide-big ps-0'>
                     <div className="pt-5 mt-4 mx-auto">
                       {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
@@ -113,7 +112,7 @@ const Home = () => {
                       </div>
                   </div>
                     {/* carousel */}
-                    <div className='col-md-6 ui-hide-only'>
+                    <div className='col-md-6 ui-hide-only ps-0'>
                     <div className="pt-5 mt-4">
                       {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
@@ -158,8 +157,7 @@ const Home = () => {
                     
                 </div>
             </div>
-         </div>
-    </div>
+   
     </section>
 
     <Booking />
