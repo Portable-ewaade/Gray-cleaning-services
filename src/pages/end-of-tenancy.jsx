@@ -22,7 +22,7 @@ const endOfTenancy = () => {
                           <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>End of Tenancy Cleaning Birmingham</h1>
                           <p className='pt-3 fs-normal'>Need cleaning services for your rented accommodation? </p>
 
-                          <p>Cleanse Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Birmingham and the surrounding areas.</p>
+                          <p>Steelgrey Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Birmingham and the surrounding areas.</p>
 
                           <p>Contact us today for a local cleaning company you can trust.</p>
                       </div>
@@ -32,7 +32,7 @@ const endOfTenancy = () => {
                           <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>End of Tenancy Cleaning Birmingham</h1>
                           <p className='pt-3 fs-normal'>Need cleaning services for your rented accommodation? </p>
 
-                          <p>Cleanse Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Birmingham and the surrounding areas.</p>
+                          <p>Steelgrey Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Birmingham and the surrounding areas.</p>
 
                           <p>Contact us today for a local cleaning company you can trust.</p>
                       </div>
@@ -156,7 +156,7 @@ const endOfTenancy = () => {
               <img src="../../../assets/cleaning4.jpg" alt="..."className='mt-5 specialist'/>
                     <div class="card border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
-                            <p className='text-color fs-medium special-p p-sm-5 p-3 m-0'>Looking for a cleaning service not <br /> listed? Give Cleanse Cleaning <br />Specialists a call to discuss
+                            <p className='text-color fs-medium special-p p-sm-5 p-3 m-0'>Looking for a cleaning service not <br /> listed? Give Steelgrey Cleaning <br />Specialists a call to discuss
                             </p>
                             <h1 className='text-color mb-1'>        
                               <a href="tel:0792 322 0814">
@@ -173,7 +173,7 @@ const endOfTenancy = () => {
       <div className="row mt-md-5 pt-md-5">
                 <div className="col-md-6 ">
                     <div className="">
-                          <h1 className='fs-larger line-height text-color mb-4'>Why Choose Cleanse</h1>
+                          <h1 className='fs-larger line-height text-color mb-4'>Why Choose Steelgrey</h1>
                           <p className=' fs-normal text-black fs-large '>From cleaning the kitchen to achieving that bright shine on the bathroom taps or removing stains from carpets and upholstery, getting a property spotless after a tenancy can be difficult. That is why we offer our superior end of tenancy cleaning in Birmingham and the surrounding areas.</p>
                           <p className='pt-3 fs-normal text-black fs-large mb-5'>We are passionate about what we do and have a friendly and experienced cleaning team to cover all our customers’ cleaning needs in Birmingham and the surrounding areas. No job is too big or too small for our team and we will provide dependable cleaners who use advanced methodology and environmentally conscious means to leave your property spotless.</p>
                       </div>

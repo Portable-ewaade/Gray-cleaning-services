@@ -26,7 +26,7 @@ const Enquires = () => {
                     <div className='col-md-6 mt-5 p-2'>
                     <div class="card text-bg-light mb-3 border-0 what-else ">
                         <div class="card-body p-0 m-0">
-                            <h1 className='fs-xxxlarge text-color p-sm-5 p-5 shadow-lg m-0'>What else does cleanse offer?</h1>
+                            <h1 className='fs-xxxlarge text-color p-sm-5 p-5 shadow-lg m-0'>What else does Steelgrey offer?</h1>
                         </div>
                     </div>
                      </div>
@@ -35,7 +35,7 @@ const Enquires = () => {
                                 <hr className='mb-4 '/>
                                 <p className='fs-normal'>7 days a week service provision</p>
                                 <hr className='mt-4 mb-4' />
-                                <p className='fs-normal mb-5'>No job is too big or too small</p>  
+                                <p className='fs-normal mb-4'>No job is too big or too small</p>  
                                 <hr className='mt-4 mb-4' />
                                 <p className='fs-normal '>All cleaning services covered</p>  
                             </div>    

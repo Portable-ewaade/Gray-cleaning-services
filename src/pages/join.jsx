@@ -13,7 +13,7 @@ const join = () => {
                   <div className='col-md-6'>
                       <div className="pt-md-5 mt-4">
                           <h1 className='fs-xxxlarge line-height text-color mb-4 mt-5 pt-md-5'>Join Our Team</h1>
-                          <p className='pt-3 fs-normal'>Looking for cleaning jobs in Birmingham? Join the Cleanse team for competitive rates and an excellent working environment.</p>
+                          <p className='pt-3 fs-normal'>Looking for cleaning jobs in Birmingham? Join the Steelgrey team for competitive rates and an excellent working environment.</p>
                       </div>
                   </div>
 
@@ -47,8 +47,8 @@ const join = () => {
             <div className="row mt-md-5">
                 <div className="col-md-6 mt-md-3">
                     <div className=" mt-md-3 ">
-                          <p className='pt-3 fs-normal text-black fs-large '>We have a range of positions available at competitive rates. There are progression opportunities for our team members to build a rewarding career with us at Cleanse too. We currently have full-time, part-time and apprentice jobs open, so please contact us for more information.</p>
-                          <p className='pt-3 fs-normal text-black fs-large '>We think Cleanse is one of the best cleaning companies to work for. If you are looking for cleaning jobs in Birmingham and the surrounding areas, we would love to have you join our team.</p>
+                          <p className='pt-3 fs-normal text-black fs-large '>We have a range of positions available at competitive rates. There are progression opportunities for our team members to build a rewarding career with us at Steelgrey too. We currently have full-time, part-time and apprentice jobs open, so please contact us for more information.</p>
+                          <p className='pt-3 fs-normal text-black fs-large '>We think Steelgrey is one of the best cleaning companies to work for. If you are looking for cleaning jobs in Birmingham and the surrounding areas, we would love to have you join our team.</p>
                       </div>
                 </div>
                 <div className="col-md-6">
@@ -69,11 +69,11 @@ const join = () => {
               <div className="row">
                 <div className='col-md-12 mx-auto'>
                   <div>
-                      <div className='fs-normal text-center '><q className=''>We started Cleanse to provide the highest quality Birmingham cleaning services to our clients. We could not do that without our dedicated and professional team of staff members.
+                      <div className='fs-normal text-center '><q className=''>We started Steelgrey to provide the highest quality Birmingham cleaning services to our clients. We could not do that without our dedicated and professional team of staff members.
                         <div className="mt-2">
                         <br className='' />
                         </div>
-                      From competitive rates to flexible working patterns, we aim to make Cleanse a wonderful place to work for all our staff. As a fast growing Company, we are always looking for enthusiastic new team members, so please get in touch with us to find out about our latest opportunities. </q></div>
+                      From competitive rates to flexible working patterns, we aim to make Steelgrey a wonderful place to work for all our staff. As a fast growing Company, we are always looking for enthusiastic new team members, so please get in touch with us to find out about our latest opportunities. </q></div>
                   </div>
                   <div className="text-center ">
                     <img src="../../../assets/icons/user.png" alt="Male avatar" className='mt-2' style={{width: "3.5rem"}}/>

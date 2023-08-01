@@ -146,7 +146,7 @@ const schoolCleaning = () => {
               <img src="../../../assets/cleaning4.jpg" alt="..."className='mt-5 specialist'/>
                     <div class="card border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
-                            <p className='text-color fs-medium p-sm-5 p-3  special-p m-0'>Looking for a cleaning service not <br /> listed? Give Cleanse Cleaning <br />Specialists a call to discuss
+                            <p className='text-color fs-medium p-sm-5 p-3  special-p m-0'>Looking for a cleaning service not <br /> listed? Give Steelgrey Cleaning <br />Specialists a call to discuss
                             </p>
                             <h1 className='text-color mb-1'>        
                               <a href="tel:0792 322 0814">
@@ -167,7 +167,7 @@ const schoolCleaning = () => {
             <div className="row">
               <div className='col-md-12 mx-auto'>
                 <div>
-                    <p className='fs-normal text-center '><q className=''>Cleanse Cleaning Specialists have been a real godsend to all 8 of our schools in the Multi Academy. As pupils return to school following the Covid - 19 pandemic, it was essential that our schools were and are as clean as they could be. Cleanse have provided hardworking staff with real initiative and have transformed our learning spaces into gleaming environments. This service was followed by a top grade monitoring system for maintaining cleanliness to the highest of standards. This gave the students, parents and all staff the necessary confidence to believe that we could return to concentrate on learning and enabling our young people to shine!</q></p>
+                    <p className='fs-normal text-center '><q className=''>Steelgrey Cleaning Specialists have been a real godsend to all 8 of our schools in the Multi Academy. As pupils return to school following the Covid - 19 pandemic, it was essential that our schools were and are as clean as they could be. Steelgrey have provided hardworking staff with real initiative and have transformed our learning spaces into gleaming environments. This service was followed by a top grade monitoring system for maintaining cleanliness to the highest of standards. This gave the students, parents and all staff the necessary confidence to believe that we could return to concentrate on learning and enabling our young people to shine!</q></p>
                 </div>
                 <div>
                     <h6 className='text-color text-center mt-4 mb-5 mb-md-0'>John Farrell, Catholic Senior Executive Leader at St John II Multi Academy</h6>
@@ -184,8 +184,8 @@ const schoolCleaning = () => {
       <div className="row mt-md-5 pt-md-5">
                 <div className="col-md-6 ">
                     <div className=" mt-md- ">
-                        <h1 className='text-color mb-4 '>Why choose Cleanse for your school cleaning?</h1>
-                          <p className=' text-black'>At Cleanse we pride ourselves on delivering superior standards of service and dependability. Our specialist cleaners are vetted and experienced in working in public environments such as schools, so you can be sure you are receiving a high-quality cleaning service from trained professionals.</p>
+                        <h1 className='text-color mb-4 '>Why choose Steelgrey for your school cleaning?</h1>
+                          <p className=' text-black'>At Steelgrey we pride ourselves on delivering superior standards of service and dependability. Our specialist cleaners are vetted and experienced in working in public environments such as schools, so you can be sure you are receiving a high-quality cleaning service from trained professionals.</p>
                           <p className=' text-black'>If you have any questions about the services we offer, please get in touch and our friendly team will be happy to help.</p>
                         
                       </div>
@@ -258,7 +258,7 @@ const schoolCleaning = () => {
                       </h2>
                       <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordion">
                       <div class="accordion-body">
-                      For one-off cleans, it is usually not necessary. However, we may suggest a contract for regular service packages to ensure we meet your requirements. Contact our Cleanse Cleaning Specialists team to find out more.
+                      For one-off cleans, it is usually not necessary. However, we may suggest a contract for regular service packages to ensure we meet your requirements. Contact our Steelgrey Cleaning Specialists team to find out more.
                       </div>
                       </div>
                   </div>

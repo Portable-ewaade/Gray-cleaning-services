@@ -19,13 +19,13 @@ const domesticCleaning = () => {
                       <div className='col-md-6 ui-show-only ui-hide-big'>
                           <div className="pt-md-5 mt-4">
                               <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>Domestic Cleaning Services</h1>
-                              <p className='pt-3 fs-normal'>Can’t find the time to clean? Let Cleanse Cleaning Specialists do the hard work for you. We offer a range of domestic cleaning services to keep your home spotless.</p>
+                              <p className='pt-3 fs-normal'>Can’t find the time to clean? Let Steelgrey Cleaning Specialists do the hard work for you. We offer a range of domestic cleaning services to keep your home spotless.</p>
                           </div>
                       </div>
                       <div className='col-md-6 ui-hide-only'>
                           <div className="pt-md-5 mt-4">
                               <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-3 mt-md-5'>Domestic Cleaning Services</h1>
-                              <p className='pt-3 fs-normal'>Can’t find the time to clean? Let Cleanse Cleaning Specialists do the hard work for you. We offer a range of domestic cleaning services to keep your home spotless.</p>
+                              <p className='pt-3 fs-normal'>Can’t find the time to clean? Let Steelgrey Cleaning Specialists do the hard work for you. We offer a range of domestic cleaning services to keep your home spotless.</p>
                           </div>
                       </div>
                       <div className='col-md-6 ui-hide-only'>
@@ -50,7 +50,7 @@ const domesticCleaning = () => {
                     <div className="col-md-6 ">
                         <div className=" ms-3">
                               <h1 className='mt-3 fs-xxlarge line-height text-color mb-2'>Introduction</h1>
-                              <p className=' fs-normal text-black fs-large '>Searching for a reliable cleaning company in Birmingham? Cleanse Cleaning Specialists are here to help. We are an experienced, professional and friendly team of Birmingham cleaners, who work hard to deliver the best possible apartment and house cleaning services. Whether you want a one-off deep clean or a regular residential service plan, you can trust our friendly and reliable domestic cleaners to do the best job. We work to your exacting standards and go the extra mile to ensure your complete satisfaction, keeping your home hygienically clean and tidy. Ready to contact us about your domestic cleaning requirements? Get in touch today to book a free consultation at your home with no obligation to proceed.</p>
+                              <p className=' fs-normal text-black fs-large '>Searching for a reliable cleaning company in Birmingham? Steelgrey Cleaning Specialists are here to help. We are an experienced, professional and friendly team of Birmingham cleaners, who work hard to deliver the best possible apartment and house cleaning services. Whether you want a one-off deep clean or a regular residential service plan, you can trust our friendly and reliable domestic cleaners to do the best job. We work to your exacting standards and go the extra mile to ensure your complete satisfaction, keeping your home hygienically clean and tidy. Ready to contact us about your domestic cleaning requirements? Get in touch today to book a free consultation at your home with no obligation to proceed.</p>
                           </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@ const domesticCleaning = () => {
                   <img src="../../../assets/cleaning4.jpg" alt="..."className='mt-5'/>
                         <div class="card border-0 position-absolute  top-50 start-50">
                             <div class="card-body p-0 m-0">
-                                <p className='text-color fs-medium p-sm-5 p- special-p m-0'>Looking for a cleaning service not <br /> listed? Give Cleanse Cleaning <br />Specialists a call to discuss
+                                <p className='text-color fs-medium p-sm-5 p- special-p m-0'>Looking for a cleaning service not <br /> listed? Give Steelgrey Cleaning <br />Specialists a call to discuss
                                 </p>
                                 <h1 className='text-color mb-1'>        
                                   <a href="tel:0792 322 0814">
@@ -192,7 +192,7 @@ const domesticCleaning = () => {
                 <div className="row">
                   <div className='col-md-12 mx-auto'>
                     <div>
-                        <p className='fs-normal text-center '><q className=''>My mental health was struggling and i felt i needed extra support in the home with the cleaning as i often felt unable to cope. I contacted Cleanse and found them to be friendly and caring from the beginning. They listened to me and i now always use them twice per week to help with cleaning and doing my washing up. Thank you so much as it has helped me feel happier and more relaxed in my home.</q></p>
+                        <p className='fs-normal text-center '><q className=''>My mental health was struggling and i felt i needed extra support in the home with the cleaning as i often felt unable to cope. I contacted Steelgrey and found them to be friendly and caring from the beginning. They listened to me and i now always use them twice per week to help with cleaning and doing my washing up. Thank you so much as it has helped me feel happier and more relaxed in my home.</q></p>
                     </div>
                     <div className="text-center">
                         <img src="../../../assets/icons/user.png" alt="" className='img-fluid icons' />
@@ -212,7 +212,7 @@ const domesticCleaning = () => {
           <div className="row mt-md-5 pt-md-5">
                     <div className="col-md-6 ">
                         <div className=" mt-md- ">
-                            <h1 className='text-color mb-4 '>Why choose Cleanse ?</h1>
+                            <h1 className='text-color mb-4 '>Why choose Steelgrey ?</h1>
                               <p className=' text-black'>Keeping your home in a spotless condition isn’t always easy. Whether you lead a busy lifestyle, find it difficult to keep on top of your cleaning routine or simply want to free up your time to do other things, our reliable cleaning company in Birmingham is on hand to help.</p>
                               <p className=' text-black'>We offer a wide range of domestic cleaning services in Birmingham and the surrounding areas. From specialist services like carpet cleaning to regular cleaning packages, we always tailor our work to your requirements.</p>
                               <p className="text-black">If you are looking for a domestic cleaner in Birmingham, contact our friendly team today to book a free no obligation consultation.</p>

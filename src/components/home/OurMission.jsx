@@ -17,7 +17,7 @@ const OurMission = () => {
                
                     <div className='col-md-6'>
                         <div>
-                            <p className='fs-normal'>We believe in the holistic benefits of having a clean home or premises. Let Cleanse Cleaning Specialists visit your home or premises and get it cleansed!</p>
+                            <p className='fs-normal'>We believe in the holistic benefits of having a clean home or premises. Let Steelgrey Cleaning Specialists visit your home or premises and get it Steelgreyd!</p>
                         </div>  
                     </div>
                     <div className='col-md-6 mt-5'>

@@ -100,7 +100,7 @@ const Home = () => {
                   <div className='col-md-6 ui-hide-only'>
                       <div className="pt-5 mt-4">
                           <h1 className='fs-xxxlarge lh-1 text-color mb-4'>Professional <br /> cleaning <br /> service</h1>
-                          <p className='pt-3 fs-normal'>Cleanse Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
+                          <p className='pt-3 fs-normal'>Steelgrey Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
 
                           {/* <div className="fw-bold fs-xlarge text-color mt-5">
                             <a href="/getStarted">Get Started</a>
@@ -144,7 +144,7 @@ const Home = () => {
                       <div className="pt-2 mt-2">
                           <h1 className='fs-xxlarge line-height text-color
                            mb-4'>Professional cleaning <br /> service</h1>
-                          <p className='pt-3 fs-normal'>Cleanse Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
+                          <p className='pt-3 fs-normal'>Steelgrey Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
 
                           {/* <div className="fw-bold fs-xlarge text-color mt-5">
                             <a href="/getStarted">Get Started</a>
