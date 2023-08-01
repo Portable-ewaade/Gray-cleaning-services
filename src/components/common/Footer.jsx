@@ -6,7 +6,9 @@ const Footer = () => {
         <div className="container text-black">
             <div className="row mt-3 ">
                 <div className="col-md-3">
-                    <h6>0792 322 0814</h6>
+                    <a href="tel">
+                    <h6>+239035169253</h6>
+                    </a>
                     <hr />
                     <div className="w-50 my-4">
                         <img src="../../../assets/icons/instagram.png" alt="..." className='mx-3 '

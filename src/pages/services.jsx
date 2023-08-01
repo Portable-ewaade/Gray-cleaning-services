@@ -33,6 +33,13 @@ const services = () => {
          </div>
         </div>
         <Services />
+        <div className="container text-black">
+            <h6>Click here to   
+              <a href="/getStarted">
+              <span className='text-color'> Book A Cleaner Now</span>
+              </a>
+            </h6>
+        </div>
         {/* <Facts /> */}
         <Footer />
     </div>
