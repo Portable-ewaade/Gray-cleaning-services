@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
-import { Footer, Navbar } from '@/components/common'
-import { Booking, Credibility, Enquires, OurMission, Pricing, Services, Work } from '@/components/home'
+import { Footer } from '@/components/common'
+import { Booking, Credibility, Enquires, Services, Work } from '@/components/home'
 import Link from 'next/link'
 
 const Home = () => {
@@ -32,7 +32,7 @@ const Home = () => {
               </Link>
             </li>
             <li class="nav-item me-4 ">
-              <Link href="/reviews" class="nav-link text-white active"> reviews
+              <Link href="/about" class="nav-link text-white active"> About
               </Link>
             </li>
             <li class="nav-item me-4 ">
@@ -40,7 +40,7 @@ const Home = () => {
               </Link>
             </li>
             <li class="nav-item me-4 ">
-              <a class="nav-link text-white " href="/">News</a>
+              <a class="nav-link text-white " href="/review">Review</a>
             </li>
           </ul>
             <button class="btn text-color bg-white fw-medium py-2 px-4 shadow-lg" type="submit">
@@ -64,14 +64,14 @@ const Home = () => {
     >
  
 
-      <div className='container text-black p-md-5'>
+    <div className='container text-black p-md-'>
          <div className="row">
-            <div className='col-md-11 mx-auto'>
+            <div className='col-md- mx-auto'>
                 <div className='row'>
                   {/* show on mobile */}
                 <div className='col-md-6 ui-show-only ui-hide-big'>
-                    <div className="pt-5 mt-4">
-                      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                    <div className="pt-5 mt-4 mx-auto">
+                      {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                           <div class="carousel-item active">
                             <img src="../../../assets/clean2.jpg" class="d-block " alt="..."/>
@@ -91,7 +91,10 @@ const Home = () => {
                           <span class="carousel-control-next-icon" aria-hidden="true"></span>
                           <span class="visually-hidden">Next</span>
                         </button>
-                      </div>
+                      </div> */}
+
+
+                      <img src="../../../assets/clean2.jpg" class="d-block im-fluid" alt="..."/>
                       </div>
                     </div>
 
@@ -100,19 +103,19 @@ const Home = () => {
                           <h1 className='fs-xxxlarge lh-1 text-color mb-4'>Professional <br /> cleaning <br /> service</h1>
                           <p className='pt-3 fs-normal'>Cleanse Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
 
-                          <div className="fw-bold fs-xlarge text-color mt-5">
+                          {/* <div className="fw-bold fs-xlarge text-color mt-5">
                             <a href="/getStarted">Get Started</a>
                            <a href="/getStarted">
                                 <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'
                             />
                            </a>
-                          </div>
+                          </div> */}
                       </div>
                   </div>
                     {/* carousel */}
                     <div className='col-md-6 ui-hide-only'>
                     <div className="pt-5 mt-4">
-                      <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                      {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                           <div class="carousel-item active">
                             <img src="../../../assets/clean2.jpg" class="d-block " alt="..."/>
@@ -132,7 +135,9 @@ const Home = () => {
                           <span class="carousel-control-next-icon" aria-hidden="true"></span>
                           <span class="visually-hidden">Next</span>
                         </button>
-                      </div>
+                      </div> */}
+
+                      <img src="../../../assets/clean2.jpg" class="d-block img-fluid" alt="..."/>
                       </div>
                     </div>
                     {/* show on mobile */}
@@ -142,12 +147,12 @@ const Home = () => {
                            mb-4'>Professional cleaning <br /> service</h1>
                           <p className='pt-3 fs-normal'>Cleanse Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
 
-                          <div className="fw-bold fs-xlarge text-color mt-5">
+                          {/* <div className="fw-bold fs-xlarge text-color mt-5">
                             <a href="/getStarted">Get Started</a>
                             <a href="/getStarted">
                                 <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                               </a>
-                          </div>
+                          </div> */}
                       </div>
                   </div>
                     
@@ -157,13 +162,13 @@ const Home = () => {
     </div>
     </section>
 
-    <OurMission />
+    <Booking />
     <Enquires />
     <Services />
     <Work />
-    <Pricing />
+    {/* <Pricing /> */}
     <Credibility />
-    <Booking />
+    
     <Footer />
 
     </>

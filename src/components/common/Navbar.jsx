@@ -22,7 +22,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li class="nav-item me-4 ">
-          <Link href="/reviews" class="nav-link text-color active"> reviews
+          <Link href="/about" class="nav-link text-color active"> about
           </Link>
         </li>
         <li class="nav-item me-4">
@@ -30,7 +30,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li class="nav-item me-4 ">
-          <a class="nav-link text-color " href="/">News</a>
+          <a class="nav-link text-color " href="/reviews">reviews</a>
         </li>
       </ul>
          <button class="btn text-white bg-color fw-medium py-2 px-4 shadow-lg" type="submit">

@@ -3,7 +3,7 @@ import React from 'react'
 const Work = () => {
   return (
     <div>
-        <div className="text-center mt-md-3 position-relative how-it-works">
+        {/* <div className="text-center mt-md-3 position-relative how-it-works">
             <img src="../../../assets/services.png" alt="..."className='mt-5' />
                     <div class="card text-bg-light ml-5 p-4  how-it-works2 border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
@@ -14,7 +14,7 @@ const Work = () => {
                             </h1>
                         </div>
                     </div>
-        </div>
+        </div> */}
 
         <div className="container ">
             <hr />

@@ -1,6 +1,6 @@
 
 import { Footer, Navbar } from '@/components/common'
-import { Facts, Services } from '@/components/home'
+import { Services } from '@/components/home'
 import React from 'react'
 
 const services = () => {
@@ -33,7 +33,7 @@ const services = () => {
          </div>
         </div>
         <Services />
-        <Facts />
+        {/* <Facts /> */}
         <Footer />
     </div>
   )

@@ -44,7 +44,7 @@ const domesticCleaning = () => {
                 <div className="row mb-5 pt-md-5">
                     <div className="col-md-6">
                          <div className="card border-0">
-                             <img src="../../../../assets//cln5.jpg" alt="..." className=''/>
+                             <img src="../../../../assets//cln5.jpg" alt="..." className='img-fluid' style={{height: "34rem", width: "auto"}}/>
                         </div>
                     </div>
                     <div className="col-md-6 ">
