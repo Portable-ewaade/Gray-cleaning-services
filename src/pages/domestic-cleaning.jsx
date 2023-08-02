@@ -50,7 +50,7 @@ const domesticCleaning = () => {
                     <div className="col-md-6 ">
                         <div className=" ms-3">
                               <h1 className='mt-3 fs-xxlarge line-height text-color mb-2'>Introduction</h1>
-                              <p className=' fs-normal text-black fs-large '>Searching for a reliable cleaning company in Birmingham? Steelgrey Cleaning Specialists are here to help. We are an experienced, professional and friendly team of Birmingham cleaners, who work hard to deliver the best possible apartment and house cleaning services. Whether you want a one-off deep clean or a regular residential service plan, you can trust our friendly and reliable domestic cleaners to do the best job. We work to your exacting standards and go the extra mile to ensure your complete satisfaction, keeping your home hygienically clean and tidy. Ready to contact us about your domestic cleaning requirements? Get in touch today to book a free consultation at your home with no obligation to proceed.</p>
+                              <p className=' fs-normal text-black fs-large '>Searching for a reliable cleaning company in Lagos & Abuja? Steelgrey Cleaning Specialists are here to help. We are an experienced, professional and friendly team of Lagos & Abuja cleaners, who work hard to deliver the best possible apartment and house cleaning services. Whether you want a one-off deep clean or a regular residential service plan, you can trust our friendly and reliable domestic cleaners to do the best job. We work to your exacting standards and go the extra mile to ensure your complete satisfaction, keeping your home hygienically clean and tidy. Ready to contact us about your domestic cleaning requirements? Get in touch today to book a free consultation at your home with no obligation to proceed.</p>
                           </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@ const domesticCleaning = () => {
                         <img src="../../../assets/icons/user.png" alt="" className='img-fluid icons' />
                     </div>
                     <div>
-                        <h6 className='text-color text-center mt-4 mb-5 mb-md-0'>Simon Hart -Tenant living in Birmingham City Centre</h6>
+                        <h6 className='text-color text-center mt-4 mb-5 mb-md-0'>Simon Hart -Tenant living in Lagos & Abuja City Centre</h6>
                     </div>
                   </div>
             
@@ -213,9 +213,9 @@ const domesticCleaning = () => {
                     <div className="col-md-6 ">
                         <div className=" mt-md- ">
                             <h1 className='text-color mb-4 '>Why choose Steelgrey ?</h1>
-                              <p className=' text-black'>Keeping your home in a spotless condition isn’t always easy. Whether you lead a busy lifestyle, find it difficult to keep on top of your cleaning routine or simply want to free up your time to do other things, our reliable cleaning company in Birmingham is on hand to help.</p>
-                              <p className=' text-black'>We offer a wide range of domestic cleaning services in Birmingham and the surrounding areas. From specialist services like carpet cleaning to regular cleaning packages, we always tailor our work to your requirements.</p>
-                              <p className="text-black">If you are looking for a domestic cleaner in Birmingham, contact our friendly team today to book a free no obligation consultation.</p>
+                              <p className=' text-black'>Keeping your home in a spotless condition isn’t always easy. Whether you lead a busy lifestyle, find it difficult to keep on top of your cleaning routine or simply want to free up your time to do other things, our reliable cleaning company in Lagos & Abuja is on hand to help.</p>
+                              <p className=' text-black'>We offer a wide range of domestic cleaning services in Lagos & Abuja and the surrounding areas. From specialist services like carpet cleaning to regular cleaning packages, we always tailor our work to your requirements.</p>
+                              <p className="text-black">If you are looking for a domestic cleaner in Lagos & Abuja, contact our friendly team today to book a free no obligation consultation.</p>
                             
                           </div>
                     </div>

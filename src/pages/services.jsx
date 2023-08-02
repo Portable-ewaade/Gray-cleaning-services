@@ -15,7 +15,7 @@ const services = () => {
                       <div className="pt-md-5 mt-4">
                           <h1 className='fs-xxxlarge line-height text-color mb-4 mt-5 pt-md-5'>Our Services</h1>
                           <p className='pt-3 fs-normal'>Customer service, reliability and unrivalled results are what sets our
-                           cleaning company in Birmingham apart. Find out more about our cleaning 
+                           cleaning company in Lagos & Abuja apart. Find out more about our cleaning 
                            services to discover how we can help you.</p>
                       </div>
                   </div>

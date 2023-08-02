@@ -19,15 +19,15 @@ const schoolCleaning = () => {
 
                   <div className='col-md-6 ui-show-only ui-hide-big'>
                       <div className="pt-md-5 mt-4">
-                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>School Cleaning Birmingham</h1>
-                          <p className='pt-3 fs-normal'>Schools are focal points in any community, and it is important that they are kept clean and hygienic to allow pupils and staff to work in confidence. Our specialist school cleaners work across Birmingham to provide the level of cleanliness required to facilitate a return to education in the wake of the Covid-19 pandemic.</p>
+                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>School Cleaning Lagos & Abuja</h1>
+                          <p className='pt-3 fs-normal'>Schools are focal points in any community, and it is important that they are kept clean and hygienic to allow pupils and staff to work in confidence. Our specialist school cleaners work across Lagos & Abuja to provide the level of cleanliness required to facilitate a return to education in the wake of the Covid-19 pandemic.</p>
                       </div>
                   </div>
 
                   <div className='col-md-6 ui-hide-only'>
                       <div className="pt-md-5 mt-4">
-                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>School Cleaning Birmingham</h1>
-                          <p className='pt-3 fs-normal'>Schools are focal points in any community, and it is important that they are kept clean and hygienic to allow pupils and staff to work in confidence. Our specialist school cleaners work across Birmingham to provide the level of cleanliness required to facilitate a return to education in the wake of the Covid-19 pandemic.</p>
+                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>School Cleaning Lagos & Abuja</h1>
+                          <p className='pt-3 fs-normal'>Schools are focal points in any community, and it is important that they are kept clean and hygienic to allow pupils and staff to work in confidence. Our specialist school cleaners work across Lagos & Abuja to provide the level of cleanliness required to facilitate a return to education in the wake of the Covid-19 pandemic.</p>
                       </div>
                   </div>
 
@@ -53,7 +53,7 @@ const schoolCleaning = () => {
                 <div className="col-md-6 ">
                     <div className=" ms-3">
                           <h1 className='fs-xxlarge line-height text-color mb-2'>School cleaning specialists</h1>
-                          <p className=' fs-normal text-black fs-large '>As specialists, we understand the particular importance of hygiene in a school setting. As with any other public space, children and staff moving around the building create large amounts of dirt which can spread bacteria and viruses quickly. As one of the most trusted cleaning companies in Birmingham, we are experienced at working in public settings and our uniformed, specialist cleaners are professional, experienced, and trained to work around young people. We use specialist monitoring systems to ensure all services are delivered to the highest standards.</p>
+                          <p className=' fs-normal text-black fs-large '>As specialists, we understand the particular importance of hygiene in a school setting. As with any other public space, children and staff moving around the building create large amounts of dirt which can spread bacteria and viruses quickly. As one of the most trusted cleaning companies in Lagos & Abuja, we are experienced at working in public settings and our uniformed, specialist cleaners are professional, experienced, and trained to work around young people. We use specialist monitoring systems to ensure all services are delivered to the highest standards.</p>
                       </div>
                 </div>
             </div>
@@ -222,7 +222,7 @@ const schoolCleaning = () => {
                       </h2>
                       <div id="collapseOne" class="accordion-collapse collapse show border-0" data-bs-parent="#accordion">
                       <div class="accordion-body border-0">
-                      Yes, our school cleaners in Birmingham are all DBS checked and fully insured. That means you have the peace of mind that comes with a reliable and trusted cleaning company.
+                      Yes, our school cleaners in Lagos & Abuja are all DBS checked and fully insured. That means you have the peace of mind that comes with a reliable and trusted cleaning company.
                       </div>
                       </div>
                   </div>
@@ -282,7 +282,7 @@ const schoolCleaning = () => {
                       </h2>
                       <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordion">
                       <div class="accordion-body">
-                      We want to make hiring a local school cleaning company in Birmingham simple. To get started, <span className="text-color"> <a href="/getStarted">contact our team today.</a> </span> We will visit your school to provide you with a free, no obligation consultation and quote. All that is left to do after that is decide a time and date that suits you.
+                      We want to make hiring a local school cleaning company in Lagos & Abuja simple. To get started, <span className="text-color"> <a href="/getStarted">contact our team today.</a> </span> We will visit your school to provide you with a free, no obligation consultation and quote. All that is left to do after that is decide a time and date that suits you.
                       </div>
                       </div>
                   </div>

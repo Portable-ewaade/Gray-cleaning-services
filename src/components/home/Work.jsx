@@ -27,7 +27,7 @@ const Work = () => {
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color mt-2 mb-md-4'>1.</h1>
                             <h2 className='text-color my-md-5 my-sm-2'>Contact Us</h2>
-                            <p className='mb-4'>Get in touch with our friendly Birmingham-based cleaning company about your requirements today. Whether you’re a homeowner, tenant, landlord or corporate client, we are ready to help.</p>
+                            <p className='mb-4'>Get in touch with our friendly Lagos & Abuja-based cleaning company about your requirements today. Whether you’re a homeowner, tenant, landlord or corporate client, we are ready to help.</p>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ const Work = () => {
                         <div className="card-body shadow-lg p-4">
                             <h1 className='text-color mt-2 mb-md-5 my-sm-2'>3.</h1>
                             <h2 className='text-color mb-3'>Get ready to Steelgrey</h2>
-                            <p>Our experienced and dependable Birmingham cleaners will arrive on-time and complete your clean to the highest possible standard, leaving your property Steelgreyd. Whether you choose a one-off clean or a regular service package, we are confident you will love our results.</p>
+                            <p>Our experienced and dependable Lagos & Abuja cleaners will arrive on-time and complete your clean to the highest possible standard, leaving your property Steelgreyd. Whether you choose a one-off clean or a regular service package, we are confident you will love our results.</p>
                         </div>
                     </div>
                 </div>

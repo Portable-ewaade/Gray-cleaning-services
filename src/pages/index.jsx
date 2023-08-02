@@ -44,7 +44,9 @@ const Home = () => {
             </li>
           </ul>
             <button class="btn text-color bg-white fw-medium py-2 px-4 shadow-lg" type="submit">
-              <a href="/getStarted">Get Started</a>
+              <a href="/getStarted">Enquire Now</a>
+              <br />
+              <a href="tel:+239035169253">+239035169253</a>
              
             </button>
         </div>
@@ -166,7 +168,13 @@ const Home = () => {
     <Work />
     {/* <Pricing /> */}
     <Credibility />
-    
+    <div className="container text-black">
+            <h6>Click here to   
+              <a href="/getStarted">
+              <span className='text-color'> Book A Cleaner Now</span>
+              </a>
+            </h6>
+        </div>
     <Footer />
 
     </>

@@ -3,7 +3,7 @@ import React from 'react'
 const Booking = () => {
   return (
     <div style={{backgroundColor: "#eef5ff"}}>
-        <div className="container pt-5 pb-5">
+        <div className="container pt-5 pb-5 mt-3">
             <div className='row'>
                 <div className='col-lg-12 mx-auto col-md-12'>
                     <h4 className="text-color fw-bolder mb-4 text-center">

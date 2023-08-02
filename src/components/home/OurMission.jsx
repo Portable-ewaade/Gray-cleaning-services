@@ -11,7 +11,7 @@ const OurMission = () => {
                     <div className="row">
                     <div className='col-md-6'>
                         <div>
-                            <p className='fs-normal'>We are passionate about what we do and have a friendly and experienced cleaning team to cover all our customers’ cleaning needs in Birmingham and the surrounding areas.</p>
+                            <p className='fs-normal'>We are passionate about what we do and have a friendly and experienced cleaning team to cover all our customers’ cleaning needs in Lagos & Abuja and the surrounding areas.</p>
                         </div>
                     </div>
                

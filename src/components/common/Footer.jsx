@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="container text-black">
             <div className="row mt-3 ">
                 <div className="col-md-3">
-                    <a href="tel">
+                    <a href="tel:+239035169253">
                     <h6>+239035169253</h6>
                     </a>
                     <hr />

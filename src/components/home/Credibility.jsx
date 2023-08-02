@@ -120,10 +120,10 @@ const Credibility = () => {
                 </div>
                 <div className="col-md-4 mb-3">
                     <div className="card border-0">
-                        <div className="card-body p-md-3 p2 shadow-lg">
+                        <div className="card-body p-md-1 shadow-lg">
                         <div className=" d-flex align-center">
                                 <img src="../../../assets/icons/naira-sign.png" alt="..." className='icons mx-1' />
-                                <p className='my-md-1 mx-md-4 mx-3'>No obligation free consultation at your home or premises</p>
+                                <p className='my-md- mx-md-4 mx-3'>No obligation free consultation at your home or premises</p>
                             </div>
                         </div>
                     </div>

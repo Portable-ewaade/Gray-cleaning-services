@@ -19,20 +19,20 @@ const endOfTenancy = () => {
                   </div>  
                   <div className='col-md-6 ui-show-only ui-hide-big'>
                       <div className="pt-md-5 mt-4">
-                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>End of Tenancy Cleaning Birmingham</h1>
+                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>End of Tenancy Cleaning Lagos & Abuja</h1>
                           <p className='pt-3 fs-normal'>Need cleaning services for your rented accommodation? </p>
 
-                          <p>Steelgrey Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Birmingham and the surrounding areas.</p>
+                          <p>Steelgrey Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Lagos & Abuja and the surrounding areas.</p>
 
                           <p>Contact us today for a local cleaning company you can trust.</p>
                       </div>
                   </div> 
                   <div className='col-md-6 ui-hide-only'>
                       <div className="pt-md-5 mt-4">
-                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>End of Tenancy Cleaning Birmingham</h1>
+                          <h1 className='fs-xxxlarge lh-small text-color mb-4 mt-5'>End of Tenancy Cleaning Lagos & Abuja</h1>
                           <p className='pt-3 fs-normal'>Need cleaning services for your rented accommodation? </p>
 
-                          <p>Steelgrey Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Birmingham and the surrounding areas.</p>
+                          <p>Steelgrey Cleaning Specialists are experts in pre-tenancy and end of tenancy cleaning in Lagos & Abuja and the surrounding areas.</p>
 
                           <p>Contact us today for a local cleaning company you can trust.</p>
                       </div>
@@ -60,7 +60,7 @@ const endOfTenancy = () => {
                 <div className="col-md-6 mb-md-4 mt-sm-3 ">
                     <div className=" mt-3 ms-md-3">
                           <h1 className='fs-xxlarge line-height text-color mb-4'>Services for Tenants, Landlords and Letting Agents</h1>
-                          <p className='pt-3 fs-normal text-black fs-large '>For tenants and landlords in Birmingham, end of tenancy cleaning and start of tenancy cleaning will reduce deposit disputes and unnecessary stress. Our experienced team of end of tenancy cleaners take all the hassle out of preparing your space for its new occupants.</p>
+                          <p className='pt-3 fs-normal text-black fs-large '>For tenants and landlords in Lagos & Abuja, end of tenancy cleaning and start of tenancy cleaning will reduce deposit disputes and unnecessary stress. Our experienced team of end of tenancy cleaners take all the hassle out of preparing your space for its new occupants.</p>
                       </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@ const endOfTenancy = () => {
                     <div className=" mx-2 ">
                           <p className='pt-3 fs-normal text-black fs-large '> <strong>For tenants, </strong>we provide end of tenancy cleaning services before you check out of a property. From cleaning stains on the carpet to deep cleaning every room, we always work to the highest standards leaving all areas sparkling.</p>
                           <p className='pt-3 fs-normal text-black fs-large '>You may be concerned about your security deposit too. Take the stress out of moving with our end of tenancy cleaning. This will help reduce any disputes regarding the return of your rental deposit.</p>
-                          <p className='pt-3 fs-normal text-black fs-large '>Our reliable Birmingham cleaning team works efficiently and professionally, meaning your property will look as good as new once we have completed your end of tenancy cleaning or pre-tenancy cleaning.</p>
+                          <p className='pt-3 fs-normal text-black fs-large '>Our reliable Lagos & Abuja cleaning team works efficiently and professionally, meaning your property will look as good as new once we have completed your end of tenancy cleaning or pre-tenancy cleaning.</p>
                           <p className='pt-3 fs-normal text-black fs-large '>Ready to find out more about our end of tenancy cleaning services? Contact us for a free no-obligation consultation today.</p>
                       </div>
                 </div>
@@ -174,8 +174,8 @@ const endOfTenancy = () => {
                 <div className="col-md-6 ">
                     <div className="">
                           <h1 className='fs-larger line-height text-color mb-4'>Why Choose Steelgrey</h1>
-                          <p className=' fs-normal text-black fs-large '>From cleaning the kitchen to achieving that bright shine on the bathroom taps or removing stains from carpets and upholstery, getting a property spotless after a tenancy can be difficult. That is why we offer our superior end of tenancy cleaning in Birmingham and the surrounding areas.</p>
-                          <p className='pt-3 fs-normal text-black fs-large mb-5'>We are passionate about what we do and have a friendly and experienced cleaning team to cover all our customers’ cleaning needs in Birmingham and the surrounding areas. No job is too big or too small for our team and we will provide dependable cleaners who use advanced methodology and environmentally conscious means to leave your property spotless.</p>
+                          <p className=' fs-normal text-black fs-large '>From cleaning the kitchen to achieving that bright shine on the bathroom taps or removing stains from carpets and upholstery, getting a property spotless after a tenancy can be difficult. That is why we offer our superior end of tenancy cleaning in Lagos & Abuja and the surrounding areas.</p>
+                          <p className='pt-3 fs-normal text-black fs-large mb-5'>We are passionate about what we do and have a friendly and experienced cleaning team to cover all our customers’ cleaning needs in Lagos & Abuja and the surrounding areas. No job is too big or too small for our team and we will provide dependable cleaners who use advanced methodology and environmentally conscious means to leave your property spotless.</p>
                       </div>
                 </div>
                 <div className="col-md-6">
@@ -244,7 +244,7 @@ const endOfTenancy = () => {
                       </h2>
                       <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordion">
                       <div class="accordion-body">
-                      Yes, our end of tenancy cleaners in Birmingham are all DBS checked and fully insured. That means you have the peace of mind that comes with a reliable and trusted cleaning company.
+                      Yes, our end of tenancy cleaners in Lagos & Abuja are all DBS checked and fully insured. That means you have the peace of mind that comes with a reliable and trusted cleaning company.
                       </div>
                       </div>
                   </div>
