@@ -48,7 +48,7 @@ const Booking = () => {
                             </div>
                         <div class="mb-3 mx-3 mt-4 form-check">
                                 <input type="checkbox" class="form-check-input" id="Check1" />
-                                <label class="form-check-label" htmlFor="Check1">Ironing</label>
+                                <label class="form-check-label" htmlFor="Check1">Monthly</label>
                             </div>
                         <div class="mb-3 mx-3 mt-4 form-check">
                                 <input type="checkbox" class="form-check-input" id="Check1" />
