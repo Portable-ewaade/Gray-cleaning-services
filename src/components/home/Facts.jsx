@@ -24,7 +24,7 @@ const Facts = () => {
                 <div class="accordion-item mb-2 shadow">
                     <h2 class="accordion-header">
                     <button class="accordion-button collapsed bg-white text-color font-monospace" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        How long to germs live for?
+                        How long to germs live?
                     </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordion">
@@ -48,7 +48,7 @@ const Facts = () => {
                 <div class="accordion-item mb-2 shadow">
                     <h2 class="accordion-header">
                     <button class="accordion-button collapsed bg-white text-color font-monospace" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    Where is bacteria commonly found?
+                    Where are bacteria commonly found?
                     </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordion">

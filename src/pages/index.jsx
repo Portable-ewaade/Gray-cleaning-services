@@ -64,101 +64,43 @@ const Home = () => {
         backgroundPosition: 'center'
       }}
     >
- 
-
-    <div className='container text-black p-md-'>
-        
-                <div className='row ps-0'>
-                  {/* show on mobile */}
-                <div className='col-md-6 ui-show-only ui-hide-big ps-0'>
-                    <div className="pt-5 mt-4 mx-auto">
-                      {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                          <div class="carousel-item active">
-                            <img src="../../../assets/clean2.jpg" class="d-block " alt="..."/>
-                          </div>
-                          <div class="carousel-item">
-                            <img src="../../../assets/clean1.png" class="d-block " alt="..."/>
-                          </div>
-                          <div class="carousel-item">
-                            <img src="../../../assets/clean7.jpg" class="d-block " alt="..."/>
-                          </div>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Next</span>
-                        </button>
-                      </div> */}
-
-
-                      <img src="../../../assets/clean2.jpg" class="d-block im-fluid" alt="..."/>
-                      </div>
-                    </div>
-
-                  <div className='col-md-6 ui-hide-only'>
-                      <div className="pt-5 mt-4">
-                          <h1 className='fs-xxxlarge lh-1 text-color mb-4'>Professional <br /> cleaning <br /> service</h1>
-                          <p className='pt-3 fs-normal'>Steelgrey Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
-
-                          {/* <div className="fw-bold fs-xlarge text-color mt-5">
-                            <a href="/getStarted">Get Started</a>
-                           <a href="/getStarted">
-                                <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'
-                            />
-                           </a>
-                          </div> */}
-                      </div>
+        <div className='container text-black p-md-'>
+    
+            <div className='row ps-0'>
+              {/* show on mobile */}
+            <div className='col-md-6 ui-show-only ui-hide-big ps-0'>
+                <div className="pt-5 mt-4 mx-auto">
+                
+                  <img src="../../../assets/clean2.jpg" class="d-block im-fluid" alt="..."/>
                   </div>
-                    {/* carousel */}
-                    <div className='col-md-6 ui-hide-only ps-0'>
-                    <div className="pt-5 mt-4">
-                      {/* <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                          <div class="carousel-item active">
-                            <img src="../../../assets/clean2.jpg" class="d-block " alt="..."/>
-                          </div>
-                          <div class="carousel-item">
-                            <img src="../../../assets/clean1.png" class="d-block" alt="..."/>
-                          </div>
-                          <div class="carousel-item">
-                            <img src="../../../assets/clean7.jpg" class="d-block" alt="..."/>
-                          </div>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                          <span class="visually-hidden">Next</span>
-                        </button>
-                      </div> */}
-
-                      <img src="../../../assets/clean2.jpg" class="d-block img-fluid" alt="..."/>
-                      </div>
-                    </div>
-                    {/* show on mobile */}
-                    <div className='col-md-6 ui-show-only ui-hide-big'>
-                      <div className="pt-2 mt-2">
-                          <h1 className='fs-xxlarge line-height text-color
-                           mb-4'>Professional cleaning <br /> service</h1>
-                          <p className='pt-3 fs-normal'>Steelgrey Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
-
-                          {/* <div className="fw-bold fs-xlarge text-color mt-5">
-                            <a href="/getStarted">Get Started</a>
-                            <a href="/getStarted">
-                                <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
-                              </a>
-                          </div> */}
-                      </div>
-                  </div>
-                    
                 </div>
+
+              <div className='col-md-6 ui-hide-only'>
+                  <div className="pt-5 mt-4">
+                      <h1 className='fs-xxxlarge lh-1 text-color mb-4'>Professional <br /> cleaning <br /> service</h1>
+                      <p className='pt-3 fs-normal p-md-4 ps-md-0 pb-md-0'>Steelgrey Cleaning Specialists are on a mission to achieve excellent and customer-centered cleaning services that delicately cater to the satisfaction of every client.</p>
+                      <p className='fs-normal '>With Steel Grey, you can experience an all-time best cleaning service.</p>
+
+                  </div>
+              </div>
+                {/* carousel */}
+                <div className='col-md-6 ui-hide-only ps-0'>
+                <div className="pt-5 mt-4">
+                 
+                  <img src="../../../assets/clean2.jpg" class="d-block img-fluid" alt="..."/>
+                  </div>
+                </div>
+                {/* show on mobile */}
+                <div className='col-md-6 ui-show-only ui-hide-big'>
+                  <div className="pt-2 mt-2">
+                      <h1 className='fs-xxlarge line-height text-color
+                        mb-4'>Professional cleaning <br /> service</h1>
+                      <p className='pt-3 fs-normal'>Steelgrey Cleaning Specialists are on a mission to achieve excellent and customer-centered cleaning services that delicately cater to the satisfaction of every client.</p>
+                  </div>
+              </div>
+                
             </div>
+        </div>
    
     </section>
 

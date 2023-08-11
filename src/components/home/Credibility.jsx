@@ -20,7 +20,7 @@ const Credibility = () => {
                         <div className="card-body p-md-4 p-2 shadow-lg">
                             <div className=" d-flex align-center">
                                 <img src="../../../assets/icons/clock.png" alt="..." className='icons mx-2' />
-                                <p className='my-3 mx-4'>On Time</p>
+                                <p className='my-3 mx-4'>On-Time</p>
                             </div>
                             
                         </div>
@@ -102,7 +102,7 @@ const Credibility = () => {
                         <div className="card-body p-md-3 p-2 shadow-lg">
                         <div className=" d-flex align-center">
                              <img src="../../../assets/icons/favorite.png" alt="..." className='icons mx-2' />
-                             <p className='my-md-1 mx-4'>SafeConractor accredited by Alcumus</p>
+                             <p className='my-md-1 mx-4'>SafeConractor is accredited by Alcumus</p>
                           </div>
                             
                         </div>

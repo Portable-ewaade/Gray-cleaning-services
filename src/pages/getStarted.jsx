@@ -12,11 +12,12 @@ const getStarted = () => {
             <div className='col-md-11 mx-auto'>
                 <div className='row'>
                   <div className='col-md-6 '>
-                      <div className="pt-5 mt-4 mx-3">
-                          <h1 className='fs-xxxlarge line-height text-color mb-4 pt-md-5'>Get Started</h1>
-                          <p className='pt-3 fs-normal'>Ready to talk to us about your cleaning requirements? Get in touch with our friendly cleaning team today to get the process started.</p>
+                      <div className="pt-5 mx-3">
+                          <h1 className='fs-xxxlarge line-height text-color mb-4 pt-md-'>Your One-stop Click To A Seamless Cleaning Process.</h1>
+                          <p className='pt-3 fs-normal'>Conveniently hire a cleaner and discuss your cleaning needs and specifications with us for free! We've got a team of expert cleaners ready to give you the best cleaning service.</p>
+                          <p className='pt-3 fs-normal'>Reach out to us today and we can help you get started.</p>
 
-                          <p className='pt-3 fs-normal'>Hiring a cleaner doesn’t need to be difficult. Complete the form below to book in your free consultation. We’ll visit your property, discuss your requirements and provide you with a no-obligation quote. Then, all that’s left to do is decide on a date and time that suits you.</p>
+                          <p className='pt-3 fs-normal'>Complete the form below to schedule your free consultation. We’ll visit your property, discuss your requirements and provide you with a no-obligation quote. Then, all that’s left to do is decide on a date and time that is most convenient for you.</p>
                       </div>
                   </div>
 

@@ -9,7 +9,7 @@ const Enquires = () => {
 
                     <div class="card text-bg-light ml-5 p-3 enquiry border-0 position-absolute top-50 start-50">
                         <div class="card-body p-0 m-0">
-                            <h1 className='fs-xxlarge text-color p-sm-5 p-3 m-0'>Make An Enquiry
+                            <h1 className='fs-medium text-color p-sm-5 p-3 m-0'>Still Got Questions? <br /> Schedule A Free Consultation Now 
                             <a href="/getStarted">
                                 <img src="../../../assets/icons/arrow-right.png" alt="..." className='mx-2 arrrow-i'/>
                             </a>
@@ -33,36 +33,36 @@ const Enquires = () => {
                      <div className='col-md-6 mt-5'>
                             <div>
                                 <hr className='mb-4 '/>
-                                <p className='fs-normal'>7 days a week service provision</p>
+                                <p className='fs-normal'>7 Days All-week service provision</p>
                                 <hr className='mt-4 mb-4' />
-                                <p className='fs-normal mb-4'>No job is too big or too small</p>  
+                                <p className='fs-normal mb-4'>Accepts small, medium, and larger scale jobs.</p>  
                                 <hr className='mt-4 mb-4' />
-                                <p className='fs-normal '>All cleaning services covered</p>  
+                                <p className='fs-normal '>All types of cleaning services.</p>  
                             </div>    
                         </div>
         
                         <hr />
                         <div className='col-md-6 mt-4'>
                             <div>
-                                <p className='fs-normal'>Reliable, experienced and friendly cleaners</p>
+                                <p className='fs-normal'>Credible, experienced, and friendly cleaners</p>
                             </div>    
                         </div>
                         <hr className='d-md-none mt-4'/>
                         <div className='col-md-6 mt-4'>
                             <div>
-                                <p className='fs-normal'>One off cleans, regular cleans, contract cleaning and bespoke tailor made cleaning packages are a fraction of what we offer</p>  
+                                <p className='fs-normal'>Flexible cleaning packages- One-off cleans, regular cleans, contract cleaning, and bespoke tailor-made just for you! </p>  
                             </div>    
                         </div>
                         <hr className='mt-3'/>
                         <div className='col-md-6 mt-4'>
                             <div>
-                                <p className='fs-normal'>No matter the job we arrange a free consultation with you to assess your property or premises and your individual cleaning needs so we can provide you with a no obligation quote</p>  
+                                <p className='fs-normal'>Free consultation on every job to assess your property or premises and your cleaning needs so we can provide you with a no-obligation quote</p>  
                             </div>    
                         </div>
                         <hr className='d-md-none mt-4'/>
                         <div className='col-md-6 mt-4'>
                             <div>
-                                <p className='fs-normal'>We are SafeContractor accredited by Alcumus</p>  
+                                <p className='fs-normal'> SafeContractor is accredited by Alcumus</p>  
                             </div>    
                         </div>
                         <hr className='mt-3'/>
