@@ -36,7 +36,7 @@ const getStarted = () => {
 
        <Booking />
 
-       <div className="container text-black pt-md-2 mt-4">
+       {/* <div className="container text-black pt-md-2 mt-4">
         <div className="row">
             <div className="col-md-6">
             <h3>Get In Touch</h3>
@@ -44,13 +44,13 @@ const getStarted = () => {
               <p>We clean, you relax</p>
               <p>Location: Lagos and Abuja.</p>
             </div>
-            {/* <hr /> */}
+            <hr />
             <div className="col-md-6">
             <h5>Contacts:</h5>
               <h6><a href="tel: +2349035169253">
               Doris: +2349035169253 (Lagos) </a></h6>
               <h6> <a href="tel: +2348097659230">Fechi: +2348097659230 (Abuja) </a></h6>
-              {/* <h6><a href="https://wa.me/message/4N35|VIHDMV7A1">WhatsApp: https://wa.me/message/4N35|VIHDMV7A1 </a></h6> */}
+              <h6><a href="https://wa.me/message/4N35|VIHDMV7A1">WhatsApp: https://wa.me/message/4N35|VIHDMV7A1 </a></h6>
 
             </div>
         </div>
@@ -58,7 +58,7 @@ const getStarted = () => {
 
           
 
-       </div>
+       </div> */}
         <Footer />
     </div>
   )

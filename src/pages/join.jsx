@@ -78,9 +78,9 @@ const join = () => {
                   <div className="text-center ">
                     <img src="../../../assets/icons/user.png" alt="Male avatar" className='mt-2' style={{width: "3.5rem"}}/>
                   </div>
-                  <div>
-                      <h6 className='text-color text-center my-4'>Tom Greenslade, Director</h6>
-                  </div>
+                  {/* <div>
+                      <h6 className='text-color text-center my-4'>, Director</h6>
+                  </div> */}
                 </div>
           
               </div>
