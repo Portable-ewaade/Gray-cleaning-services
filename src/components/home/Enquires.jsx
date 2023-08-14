@@ -62,7 +62,7 @@ const Enquires = () => {
                         <hr className='d-md-none mt-4'/>
                         <div className='col-md-6 mt-4'>
                             <div>
-                                <p className='fs-normal'> SafeContractor is accredited by Alcumus</p>  
+                                <p className='fs-normal'> Contract Cleaning</p>  
                             </div>    
                         </div>
                         <hr className='mt-3'/>

@@ -30,8 +30,8 @@ const Pricing = () => {
             <div className="row">
                 <div className="col-md-6">
                     <div className=" mt-md-3">
-                          <h1 className='fs-xxlarge line-height text-color mb-md-4'>Safe Contractor Accredited</h1>
-                          <p className='pt-3 fs-normal text-black fs-large '>We are SafeContractor accredited by Alcumus and all our work is fully guaranteed and insured. Our experienced and friendly cleaning staff will guarantee you a safe and clean working environment within your residential space, office or commercial space, while complying with health and safety guidelines.</p>
+                          <h1 className='fs-xxlarge line-height text-color mb-md-4'>Contract Cleaning</h1>
+                          <p className='pt-3 fs-normal text-black fs-large '>Contract Cleaning and all our work is fully guaranteed and insured. Our experienced and friendly cleaning staff will guarantee you a safe and clean working environment within your residential space, office or commercial space, while complying with health and safety guidelines.</p>
 
                       </div>
                 </div>

@@ -32,7 +32,7 @@ const Work = () => {
                         <div className="card-body shadow-lg p-4">
                             <h1 className='text-color mt-2 mb-md-5 my-sm-2'>3.</h1>
                             <h2 className='text-color mb-3'>Get ready to Steelgrey</h2>
-                            <p>Our experienced and dependable Lagos & Abuja cleaners will arrive on time and complete your cleaning to the highest possible standard, leaving your property Steelgreyd. Whether you choose a one-off clean or a regular service package, we are confident you will love our results.</p>
+                            <p>Our experienced and dependable Lagos & Abuja cleaners will arrive on time and complete your cleaning to the highest possible standard, leaving your property Steelgrey. Whether you choose a one-off clean or a regular service package, we are confident you will love our results.</p>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@ const Work = () => {
             <div className="row">
               <div className='col-md-12 mx-auto'>
                 <div>
-                    <p className='fs-normal text-center '><q className=''>Tom and his team at Steelgrey were recommended to us and I’m really glad they were. They have carried out excellent work with real attention to detail. All of our clients have been delighted with their work be it end-of-tenancy cleans, full sterilized cleans, or usual home cleans. We will certainly continue to use Tom in the future as it is so important to have reliable contractors in our industry. Thanks for the great work!</q></p>
+                    <p className='fs-normal text-center '><q className=''>Doris and her team at Steelgrey were recommended to us and I’m really glad they were. They have carried out excellent work with real attention to detail. All of our clients have been delighted with their work be it end-of-tenancy cleans, full sterilized cleans, or usual home cleans. We will certainly continue to use Doris in the future as it is so important to have reliable contractors in our industry. Thanks for the great work!</q></p>
                 </div>
                 <div>
                     {/* <h6 className='text-color text-center my-4'>James Managing Partner Rice Chamberlains Estate Agents</h6> */}

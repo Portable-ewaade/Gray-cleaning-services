@@ -6,8 +6,8 @@ const Footer = () => {
         <div className="container text-black">
             <div className="row mt-3 ">
                 <div className="col-md-3">
-                    <a href="tel:+239035169253">
-                    <h6>+239035169253</h6>
+                    <a href="tel:+2349035169253">
+                    <h6>+2349035169253</h6>
                     </a>
                     <hr />
                     <div className="w-50 my-4">
@@ -69,7 +69,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row mt-5 pt-md-4 pt-3 ">
                     <div className="col-md-6">
-                        <p>Copyright &copy; Gray Cleaning 2023 </p>
+                        <p>Copyright &copy; Steelgrey Cleaning 2023 </p>
                     </div>
                     <div className="col-md-6">
                     <a href="#">

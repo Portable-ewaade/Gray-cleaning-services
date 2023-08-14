@@ -102,7 +102,7 @@ const Credibility = () => {
                         <div className="card-body p-md-3 p-2 shadow-lg">
                         <div className=" d-flex align-center">
                              <img src="../../../assets/icons/favorite.png" alt="..." className='icons mx-2' />
-                             <p className='my-md-1 mx-4'>SafeConractor is accredited by Alcumus</p>
+                             <p className='my-md-1 mx-4'>Contract Cleaning</p>
                           </div>
                             
                         </div>
