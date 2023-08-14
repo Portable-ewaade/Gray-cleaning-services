@@ -43,10 +43,11 @@ const Home = () => {
               <a class="nav-link text-white " href="/review">Review</a>
             </li>
           </ul>
-            <button class="btn text-color bg-white fw-medium py-2 px-4 shadow-lg" type="submit">
+            <button class="btn text-color bg-white fw-medium py-2 px-4 shadow-lg m-0" type="submit">
               <a href="/getStarted">Enquire Now</a>
               <br />
-              <a href="tel:+239035169253">+239035169253</a>
+              <a href="tel:+2349035169253" className='me-2'>+2349035169253</a>
+              <a href="tel:+2348097659230">+2348097659230</a>
              
             </button>
         </div>
@@ -79,7 +80,7 @@ const Home = () => {
                   <div className="pt-5 mt-4">
                       <h1 className='fs-xxxlarge lh-1 text-color mb-4'>Professional <br /> cleaning <br /> service</h1>
                       <p className='pt-3 fs-normal p-md-4 ps-md-0 pb-md-0'>Steelgrey Cleaning Specialists are on a mission to achieve excellent and customer-centered cleaning services that delicately cater to the satisfaction of every client.</p>
-                      <p className='fs-normal '>With Steel Grey, you can experience an all-time best cleaning service.</p>
+                      <p className='fs-normal '>With Steelgrey, you can experience an all-time best cleaning service.</p>
 
                   </div>
               </div>

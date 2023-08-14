@@ -33,6 +33,8 @@ const Navbar = () => {
           <a class="nav-link text-color " href="/reviews">Reviews</a>
         </li>
       </ul>
+
+        <h6></h6>
          <button class="btn text-white bg-color fw-medium py-2 px-4 shadow-lg" type="submit">
           <a href="/getStarted">Get Started</a>
          </button>
