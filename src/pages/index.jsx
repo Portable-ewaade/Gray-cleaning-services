@@ -45,9 +45,9 @@ const Home = () => {
           </ul>
             <button class="btn text-color bg-white fw-medium py-2 px-4 shadow-lg m-0" type="submit">
               <a href="/getStarted">Enquire Now</a>
-              <br />
+              {/* <br />
               <a href="tel:+2349035169253" className='me-2'>+2349035169253</a>
-              <a href="tel:+2348097659230">+2348097659230</a>
+              <a href="tel:+2348097659230">+2348097659230</a> */}
              
             </button>
         </div>
