@@ -29,9 +29,9 @@ const Navbar = () => {
           <Link href="/join" class="nav-link text-color active">Join Our Team
           </Link>
         </li>
-        <li class="nav-item me-4 ">
+        {/* <li class="nav-item me-4 ">
           <a class="nav-link text-color " href="/reviews">Reviews</a>
-        </li>
+        </li> */}
       </ul>
 
         <h6></h6>

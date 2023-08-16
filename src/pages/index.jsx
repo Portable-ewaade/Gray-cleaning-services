@@ -39,9 +39,9 @@ const Home = () => {
               <Link href="/join" class="nav-link text-white active">Join Our Team
               </Link>
             </li>
-            <li class="nav-item me-4 ">
+            {/* <li class="nav-item me-4 ">
               <a class="nav-link text-white " href="/review">Review</a>
-            </li>
+            </li> */}
           </ul>
             <button class="btn text-color bg-white fw-medium py-2 px-4 shadow-lg m-0" type="submit">
               <a href="/getStarted">Enquire Now</a>
