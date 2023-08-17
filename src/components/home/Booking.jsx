@@ -14,6 +14,7 @@ const Booking
   
       emailjs.sendForm('service_rtqbysf', 'template_bbvjtvy', form.current, 'SoP16IjTc6q-gWfzt')
         .then((result) => {
+            window.location.reload();
             console.log(result.text);
             setLoading(false);
         }, (error) => {
