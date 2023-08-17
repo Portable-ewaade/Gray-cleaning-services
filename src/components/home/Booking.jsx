@@ -56,7 +56,7 @@ const Booking
                                 <input type="Telephone" name="phone" class="form-control" id="InputTelephone" />
                             </div>
                             <div className="col-lg-6 col-6 mt-3">
-                                <label htmlFor="InputPostcode" className="form-label">Postcode:</label>
+                                <label htmlFor="InputPostcode" className="form-label">Address/Postcode:</label>
                                 <input type="Postcode" name="postalcode" class="form-control" id="InputPostcode" />
                             </div>
                         </div>
