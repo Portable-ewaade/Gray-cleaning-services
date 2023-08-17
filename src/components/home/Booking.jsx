@@ -14,11 +14,14 @@ const Booking
   
       emailjs.sendForm('service_rtqbysf', 'template_bbvjtvy', form.current, 'SoP16IjTc6q-gWfzt')
         .then((result) => {
+            // alert("Message sent successfully")
             window.location.reload();
             console.log(result.text);
             setLoading(false);
         }, (error) => {
-            console.log(error.text);
+            // alert("An error occured please try again!")
+            console.log(
+                error.text);
             setLoading(false);
         });
     };
@@ -50,7 +53,7 @@ const Booking
                         <div className="row">
                             <div className="col-lg-6 col-6 mt-3">
                                 <label htmlFor="InputTelephone" class="form-label">Telephone:</label>
-                                <input type="Telephone" name="user_phone" class="form-control" id="InputTelephone" />
+                                <input type="Telephone" name="phone" class="form-control" id="InputTelephone" />
                             </div>
                             <div className="col-lg-6 col-6 mt-3">
                                 <label htmlFor="InputPostcode" className="form-label">Postcode:</label>
@@ -59,7 +62,7 @@ const Booking
                         </div>
                         <div className="col-lg-12 col-12 mt-3">
                                 <label htmlFor="InputText" class="form-label">Please specify if its a Regular/One off/Monthly/Commercial Cleaning</label>
-                                <input type="text" name="user_type" class="form-control" id="InputText" />
+                                <input type="text" name="type" class="form-control" id="InputText" />
                             </div>
                         {/* <div className="d-flex service-input mb-4 mt-3">
                         <div className="mb-3 mx-3 mt-4 form-check">
