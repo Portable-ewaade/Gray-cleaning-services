@@ -16,10 +16,10 @@ const Services = () => {
                     <hr className='mb-4'/>
                     <p class="card-text fs-md-large fs-sm-small  fs-md-large fs-sm-small mt-0">Whether you are a tenant leaving a property or a landlord or letting agent preparing for new occupants, our end-of-tenancy cleans and start-of-tenancy cleans ensure your property is ready for the next chapter. For tenants and landlords, our end-of-tenancy and start-of-tenancy cleaning will reduce deposit disputes and unnecessary stress. Read more about how our end-of-tenancy cleaning services can help you today.</p>
                     
-                    <a href="/booking" class="card-link fs-large text-color"></a>
-                    <a href="/booking">
+                    {/* <a href="/booking" class="card-link fs-large text-color"></a> */}
+                    {/* <a href="/booking">
                         
-                    </a>
+                    </a> */}
                 </div>
                 </div>
             </div>

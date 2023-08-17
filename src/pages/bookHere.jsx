@@ -1,8 +1,7 @@
 import React from 'react'
 import emailjs from "emailjs-com"
 
-const booking
- = () => {
+const booking = () => {
     const [loading, setLoading] = useState();
     const form = useRef();
   
