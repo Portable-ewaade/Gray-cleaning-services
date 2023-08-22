@@ -166,7 +166,7 @@ const Credibility = () => {
                 <img
                   src="../../../assets/icons/naira-sign.png"
                   alt="..."
-                  className="icons mx-4"
+                  className="icons mx-md-4"
                 />
                 <p className="my-md- mx-md-4 mx-3">
                   No obligation free consultation at your home or premises
