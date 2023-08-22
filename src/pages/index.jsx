@@ -111,6 +111,11 @@ const Home = () => {
     <Work />
     {/* <Pricing /> */}
     <Credibility />
+
+    <div className="text-center text-color my-3">
+      <h2>We are certified</h2>
+      <img src="/assets/certified.jpeg" alt="certificate" className='img-fluid p-2'/>
+    </div>
     <div className="container text-black">
             <h6>Click here to   
               <a href="/getStarted">
